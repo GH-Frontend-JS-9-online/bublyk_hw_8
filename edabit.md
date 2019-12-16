@@ -7,8 +7,8 @@
 #####            2. Solution: https://www.dropbox.com/s/o0v686wpzmymrg0/arr2_medium.jpg?dl=0
 #    2. Conditions
 ###         1. Challenge 1
-#####            1. URL: 
-#####            2. Solution: 
+#####            1. URL: https://edabit.com/challenge/wNhCHwPXNLJwrTith
+#####            2. Solution: https://www.dropbox.com/s/tq6x32kmddjuyoe/cond_1_medium.jpg?dl=0
 ###        2. Challenge 2
 #####            1. URL: 
 #####            2. Solution: 
