@@ -14,8 +14,8 @@
 #####            2. Solution: https://www.dropbox.com/s/foyxs35vqva6bu4/cond_2_medium.jpg?dl=0
 #    3. Loops
 ###        1. Challenge 1
-#####            1. URL: 
-#####            2. Solution: 
+#####            1. URL: https://edabit.com/challenge/Fx2NdxGzayHpfu8pS
+#####            2. Solution: https://www.dropbox.com/s/hsii2pet4hmjk9c/loops1_medium.jpg?dl=0
 ###        2. Challenge 2
 #####            1. URL: 
 #####            2. Solution: 
